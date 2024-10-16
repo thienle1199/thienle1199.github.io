@@ -29,3 +29,7 @@ body {
   color: #000;
   font-weight: bold;
 }
+
+.bg-gradient {
+  background: linear-gradient(150.076deg, #F9FAFB 0%, #D2D6DB 100%);
+}
